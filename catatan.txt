@@ -1,0 +1,7 @@
+nodemon = package npm yg membantu agar tidak perlu menjalankan ulang 
+saat terjadi perubahan pada file js
+
+ESLint= autocorrect
+
+Origin terdiri dari tiga hal: protokol, host, dan port number.
+Di mana protokolnya adalah http://, host-nya adalah notesapp-v1.dicodingacademy.com, dan port-nya adalah :80
